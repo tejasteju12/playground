@@ -3,6 +3,6 @@ int main()
 {
     printf("comment");
     printf(" hi");
-    printf("tej")
+    printf("tej");
     return 0;
 }
